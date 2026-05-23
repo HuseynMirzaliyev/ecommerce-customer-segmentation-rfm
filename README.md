@@ -92,3 +92,19 @@ Layihənin tam interaktiv dashboard görüntüsü aşağıdakı kimidir:
 * **İnsight:** 73% təkrar alış (Repeat Purchase) əladır, lakin 43% Churn (İtki) göstərir ki, sadəcə kiçik bir fanat qrupu davamlı alış edir, qalan kütlə isə sürətlə əriyir (Leaky bucket effect).
 * **Action Plan:** Əldəki marketinq büdcəsinin böyük hissəsi yeni müştəri axtarışından (Acquisition) kəsilərək, mövcud bazanın saxlanılmasına (Retention) və Churn ehtimalı yüksək olanların erkən xəbərdarlıq sistemləri ilə (Predictive Analytics) qorunmasına yönəldilməlidir.
 
+---
+
+Huseyn Mirzaliyev
+
+Data Analyst | Data Visualization & Analytics 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 Baku, Azerbaijan
+
+📱 +994 55 820 80 50
+
+📧 huseyinmirzeliyev@gmail.com
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyn-mirzaliyev-78ba6b1a6/)
+[![github](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuseynMirzaliyev)
